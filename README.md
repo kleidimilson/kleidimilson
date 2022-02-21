@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Tecnologias: <strong>Javascript, Html, CSS, React JS, React Native</strong>
+  Tecnologias: <strong>Javascript, Html, CSS, React JS, React Native</strong>
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  💌 Se você quiser fazer novas conexões e trocar experiências, adicione-as, será um prazer participar da sua rede de conexões . : ⤵️
+  Se você quiser fazer novas conexões e trocar experiências, adicione-as, será um prazer participar da sua rede de conexões . : ⤵️
 </p>
 
 <p align="left">
