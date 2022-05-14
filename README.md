@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  Tecnologias: <strong>Javascript, Html, CSS, React JS, React Native</strong>
+  Tecnologias: <strong>Javascript, React JS, React Native</strong>
 </p>
 
 <p align="left">
