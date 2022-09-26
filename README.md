@@ -6,11 +6,11 @@
 </p>
 
 <p align="left">
-  Tecnologias: <strong>Javascript, React JS, React Native</strong>
+  Tecnologias: <strong>Javascript, React JS, React Native, Node JS</strong>
 </p>
 
 <p align="left">
-  💼 Área de Atuação: <strong>Front-end</strong>
+  💼 Área de Atuação: <strong>Desenvolvimento web</strong>
 </p>
 
 <p align="left">
