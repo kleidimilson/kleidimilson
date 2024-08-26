@@ -1,12 +1,12 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Kleidimilson.</br><strong>"Ao infinito e Além!"</strong><br>
+  Olá, meu nome é Kleidimilson
   
 </p>
 
 <p align="left">
-  Tecnologias: <strong>Javascript, React JS, React Native, Node JS</strong>
+  Tecnologias: <strong>Typescript, React JS, React Native, Node JS</strong>
 </p>
 
 <p align="left">
