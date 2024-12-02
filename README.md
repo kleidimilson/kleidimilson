@@ -1,7 +1,7 @@
 # 👋 Olá! Eu sou Kleidimilson
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kleidimilson/)](https://www.linkedin.com/in/seu-perfil/)
-[![GitHub](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/kleidimilson)
+[![GitHub](https://img.shields.io/github/followers/kleidimilson?label=Follow&style=social)](https://github.com/kleidimilson)
 
 
 
