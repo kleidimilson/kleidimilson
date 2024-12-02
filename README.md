@@ -4,7 +4,7 @@
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=firefox&logoColor=white)](https://seuportfolio.com/)
 [![GitHub](https://img.shields.io/github/followers/seuusuario?label=Follow&style=social)](https://github.com/seuusuario)
 
----
+
 
 ## 👨‍💻 Sobre mim
 🎯 Desenvolvedor apaixonado por transformar ideias em código.  
