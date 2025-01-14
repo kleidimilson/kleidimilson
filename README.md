@@ -26,7 +26,7 @@
 
 
 ## 📫 Como me encontrar
-📧 E-mail: [seuemail@gmail.com](mailto:kleidimilson@gmail.com)  
+📧 E-mail: [kleidimilson@gmail.com](mailto:kleidimilson@gmail.com)  
 
 
 
